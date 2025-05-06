@@ -74,14 +74,5 @@ This repository provides an in-depth and hands-on practice notebook focusing on 
 
 ---
 
-## 📌 Next Steps
-
-- Explore how these pandas operations integrate with data visualization using `matplotlib` or `seaborn`.
-- Build a Streamlit or PySide6 app for interactive exploration of material datasets.
-- Extend ranking logic into machine learning feature importance metrics.
-- Use similar logic to clean SCADA logs, IoT sensor feeds, or simulation outputs.
-
----
-
 Made with 💻 by Michelle Alzola  
 🔗 www.python.michellealzoladesign.com
